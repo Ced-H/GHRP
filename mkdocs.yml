@@ -45,7 +45,7 @@ copyright: |
   &copy; 2025 <a href="http://spacecoastrp.co" target="_blank" rel="noopener">The Spacecoast Network</a>
 
 nav:
-  - Home: gameplay-rules/Overview.md
+  - Home: index.md
   - Rules:
     - Gameplay Rules:
       - Overview: gameplay-rules/Overview.md
