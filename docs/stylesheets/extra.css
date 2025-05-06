@@ -17,4 +17,9 @@ strong {
   body[data-theme="default"] .md-content h1 {
     color: black !important;
   }
+  /* Adjust the logo size */
+.md-header__button.md-logo img {
+    height: 60px !important;  /* increase this value as needed */
+    }
+  
   

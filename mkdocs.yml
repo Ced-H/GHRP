@@ -24,6 +24,7 @@ theme:
         name: Switch to dark mode
       primary: deep orange
       accent: amber
+  logo: assets/images/logo.png
 
 extra:
   social:
