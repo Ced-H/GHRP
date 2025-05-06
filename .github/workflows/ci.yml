@@ -21,4 +21,6 @@ jobs:
 
       - run: pip install mkdocs-material
 
+      - run: touch docs/.nojekyll
+
       - run: mkdocs gh-deploy --force
