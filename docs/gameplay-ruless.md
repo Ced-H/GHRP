@@ -4,7 +4,9 @@ Welcome to Georgia HEAT Roleplay, "GHRP". We are a semi-realistic FiveM server, 
 
 Not all rules can be outlined, but you should approach in game interactions with common sense. Your goal should be to create enjoyable roleplay experiences for all parties involved.
 
-- ### Mission Statement
+- Mission Statement
+
+    test
 
 ---
 
@@ -99,3 +101,61 @@ Gang wars are to be fought between criminal gangs. Do not declare war against a 
 Businesses must be realistic with an RP purpose. 
 
 !!! danger "Gang, Business, or Organizations are ___NOT___ permitted to create affiliated discord servers."
+
+---
+
+## Random Deathmatch / Vehicle Deathmatch
+
+RDM/VDM is the act of killing or running over a player for __no reason randomly with no intention to roleplaying the incident.__ Prior interaction with a player and a __valid exchange__ must be established before you can kill someone. Vehicle Deathmatching is only allowed if the other person poses a threat or has had a prior interaction with the player. 
+
+Example of RDM vs a valid exchange:
+
+!!! failure "Subject A walks up to Subject B who he/she has never interacted with and shoots Subject B."
+
+!!! success "Subject A has a prior interaction with Subject B where Subject B had assaulted his wife at a store. Subject B fled and then continued to harass his wife online and gave no apology even while Subject A had threatened him violently. Finally Subject A meets Subject B and shoots him."
+
+Example of VDM vs a valid exchange:
+
+!!! failure "Subject A runs over Subject B in his Toyota Prius then drives off as nothing happened."
+
+!!! success "Subject A is sitting in his Toyota Prius vibing to some music. When Subject B appears wielding a knife in front of his vehicle. Subject A locks his doors. Subject B tries to break his windshield using the knife. Subject A floors the Prius to get out of the location and runs over Subject B in the process, then calls 911."
+
+---
+
+## Meta Gaming
+
+This is when you utilize __Out-Of-Character information/knowledge for personal In-Character benefit or gain.__ Even if it doesn't put you at an advantage, mixing OOC with IC will be considered Meta Gaming. Only use the information/knowledge you received IC.
+
+This includes any information gained from external programs such as __Discord, Twitch Streams, OOC Chat.__
+
+All radio channels are encrypted. Using police scanners by sitting in RTO, going to 911 calls, being "clocked in" in-game, which gives you access to police blips, menus, and 911 calls is metagaming, unless you are an authorized LEO playing on your real LEO character. 
+
+Example of Meta Gaming:
+
+- Subject A goes to Subject B's twitch stream and uses it to find the location of Subject B to kill him.
+
+- Fleeing from the police as soon as the priority-cooldown timer expires for no reason other than to cause a pursuit. In other words, fleeing for no legitimate reason. If your character is committing an offence which would potentially result in an arrest, it would be a justifiable reason to flee. The action needs to make sense in your character's roleplay; magically willing 500 pounds of cocaine into existence in your trunk through a /do or /me as an excuse to justify fleeing as opposed to it being a part of your roleplay (I.E. as a drug trafficker) is not permitted.
+
+
+---
+
+## Fear RP
+
+All characters must operate with some level of fear for their lives. While your characters may not truly die, they must act as if their character is subject to fear due to the possibility of being injured or losing their life. You must take into account all repercussions while your life is on the line, you can't be a hero every time.
+
+If an opportunity presents itself where you are not in immediate danger, they may fight back.
+
+Example of Fear RP:
+
+!!! success "Subject A is in an alleyway with 4 gang members who all have guns pointed towards him/her. Subject A follows all demands and stays co-operative due to fear for his life."
+
+---
+
+## New Life Rule
+
+If your character gets hurt and dies, the moment they respawn after the timer ends they must forget everything that has led up to the moment, this means you must roleplay it out that your lost your memory or forgot what happened and cannot return back to the scene for revenge. You may also not continue conducting the exact same type of roleplay as before as this defeats the purpose of the rule (ex. Your character dies in a massive car accident or pursuit following a robbery...you should not be back on the street 5 minutes later doing the exact same thing). 
+
+Your character may only be allowed to survive and remember an injury which incapacitated them if an actual player (typically EMS) physically transports you to a hospital where you are treated and recover from your injuries.
+
+---
+
