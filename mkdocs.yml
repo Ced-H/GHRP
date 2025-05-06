@@ -1,0 +1,62 @@
+site_name: Georgia HEAT Roleplay
+theme:  
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tabs.link
+  language: en
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+      primary: black
+      accent: indigo
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+      primary: deep orange
+      accent: amber
+
+extra:
+  social:
+    - icon: fontawesome/brands/tiktok
+      link: ""
+    - icon: fontawesome/brands/discord
+      link: ""
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
+
+
+copyright: |
+  &copy; 2025 <a href="http://spacecoastrp.co" target="_blank" rel="noopener">The Spacecoast Network</a>
+
+nav:
+  - Home: index.md
+  - Rules:
+    - Gameplay Rules:
+      - Overview: gameplay-rules/Overview.md
+      - No Nonsense Policy: 'gameplay-rules/no-nonsense-policy.md'
+      - Character Building: 'gameplay-rules/character-building.md'
+      - Criminal Story: 'gameplay-rules/criminal-story.md'
+      - Gangs / Mafias / Businesses: 'gameplay-rules/gangs-mafias-businesses.md'
+  - Penal Code:
+    - National Laws:
+      - '[40] Motor Vehicles and Traffic':
+        - Moving Violations:
+          - 40-6-181 | Speeding: 'penal-code/national-laws/moving-violations/40-6-181.md'
+
+
