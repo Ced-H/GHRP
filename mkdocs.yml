@@ -3,12 +3,14 @@ theme:
   name: material
   features:
     - navigation.instant
+    - toc.integrate
     - navigation.sections
+    - navigation.expand
+    - navigation.top
     - navigation.tabs
     - navigation.footer
     - search.suggest
     - search.highlight
-    - search.share
     - content.tabs.link
   language: en
   palette:
@@ -36,6 +38,8 @@ extra:
 markdown_extensions:
   - admonition
   - pymdownx.superfences
+  - toc:
+      permalink: false
 
 extra_css:
   - stylesheets/extra.css
@@ -49,12 +53,8 @@ nav:
   - Home: index.md
   - Rules:
     - Gameplay Rules: gameplay-ruless.md
-    - Gameplay Rule:
-      - Overview: gameplay-rules/Overview.md
-      - No Nonsense Policy: 'gameplay-rules/no-nonsense-policy.md'
-      - Character Building: 'gameplay-rules/character-building.md'
-      - Criminal Story: 'gameplay-rules/criminal-story.md'
-      - Gangs / Mafias / Businesses: 'gameplay-rules/gangs-mafias-businesses.md'
+    - Server Rules: ""
+    - Community Rules: ""
   - Penal Code:
     - National Laws:
       - '[40] Motor Vehicles and Traffic':
