@@ -48,7 +48,8 @@ copyright: |
 nav:
   - Home: index.md
   - Rules:
-    - Gameplay Rules:
+    - Gameplay Rules: gameplay-ruless.md
+    - Gameplay Rule:
       - Overview: gameplay-rules/Overview.md
       - No Nonsense Policy: 'gameplay-rules/no-nonsense-policy.md'
       - Character Building: 'gameplay-rules/character-building.md'
@@ -58,6 +59,6 @@ nav:
     - National Laws:
       - '[40] Motor Vehicles and Traffic':
         - Moving Violations:
-          - 40-6-181 | Speeding: 'penal-code/national-laws/moving-violations/40-6-181.md'
-
+          - 40-6-181 | Speeding: 'penal-code/national-laws/moving-violations/speeding.md'
+  - Bill of Rights: bill-of-rights.md
 

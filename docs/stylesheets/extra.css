@@ -3,7 +3,7 @@ strong {
   }
 
 .md-content h1 {
-    font-size: 2.5em;
+    font-size: 3.5em;
     font-weight: bold;
     margin-top: 1em;
     margin-bottom: 0.5em;
@@ -22,4 +22,9 @@ strong {
     height: 60px !important;  /* increase this value as needed */
     }
   
-  
+.md-content h2 {
+    font-size: 2em;
+    font-weight: regular;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
