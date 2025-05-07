@@ -40,6 +40,7 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: false
+  - attr-list
 
 extra_css:
   - stylesheets/extra.css
