@@ -136,6 +136,39 @@ Example of Meta Gaming:
 
 - Fleeing from the police as soon as the priority-cooldown timer expires for no reason other than to cause a pursuit. In other words, fleeing for no legitimate reason. If your character is committing an offence which would potentially result in an arrest, it would be a justifiable reason to flee. The action needs to make sense in your character's roleplay; magically willing 500 pounds of cocaine into existence in your trunk through a /do or /me as an excuse to justify fleeing as opposed to it being a part of your roleplay (I.E. as a drug trafficker) is not permitted.
 
+---
+
+## Power Gaming
+
+The following are prohibited:
+
+Depicting another player's actions without them agreeing to it, or doing it themselves.
+
+Declaring that your actions against another player were successful without allowing them the opportunity to respond (unless they are dead, restrained, or uncapacitated...in which case they cannot resist). 
+
+Forcefully performing an unrealistic action against someone without providing them an opportunity to evade such an action.
+
+Claimable property (Shops, Homes, etc.) on the server is viewed as first-come first-serve. Stating that you legitimately own a property while another player had already legitimately claimed to own the same location for an RP is power-gaming. Government property cannot be claimed by civilians (e.g. airports, police stations, etc.).
+
+!!! example "Examples:"
+
+    After you die, someone searches your dead body and you write "/me A grenade falls out of my pocket and explodes, you all die."
+
+    An officer using a K9 says there are drugs in a car without allowing the driver of the vehicle to do a /me or /do in response to the K9 sniff the vehicle and then being allowed to choose what their character has in the car.
+
+    Typing "/me stabs officer to death" while standing next to a police officer.
+
+    Typing "/me grabs your head and smacks you into a wall."
+
+---
+
+## Breaking Character
+
+You must remain IC at all times while in the server. Breaking character by going OOC should not be happening unless a break-in RP has been initiated while being spoken to an active member of the moderation team.
+
+Choosing to criticize and nitpick minor policy issues of police officers while your character is engaged in heavy-criminal activity is considered unrealistic. (Ex. Your character is being arrested for triple murder and you decide to take the opportunity to ask the officer why their license plate is wrong.)
+
+!!! failure "Saying things such as: "It's lag", "I'm going to report you", "That's not allowed your breaking server rules", "I don't want to roleplay this" etc."
 
 ---
 
@@ -158,4 +191,22 @@ If your character gets hurt and dies, the moment they respawn after the timer en
 Your character may only be allowed to survive and remember an injury which incapacitated them if an actual player (typically EMS) physically transports you to a hospital where you are treated and recover from your injuries.
 
 ---
+
+## Fail RP
+
+This is anything the can be considered an unrealistic situation. This is usually common sense, simply ask yourself these questions: Does this happen IRL? or Would you do this IRL? or Does this match your character's storyline?
+
+--- 
+
+## Interfering
+
+Interfering is prohibited and is defined as when a player forcefully interjects themselves into a different player's RP without meaningful or practical objectives, causing the pre-existing RP to be ruined or the outcome to be changed. However; acting in the capacity of a good Samaritan shall not be considered Interfering.
+
+Example of Interfering:
+
+!!! failure "Subject A is on a scene with officers, Subject B comes up to the traffic stop and kicks the subject's vehicle for no reason and runs off causing the officers to follow."
+
+Example of Good Samaritan:
+
+!!! success Subject A Shoots a police officer, Subject B; a civilian walking along the path draws their personal weapon and shoots Subject A dead and calls for Medical and Police Services.
 
