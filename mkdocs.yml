@@ -40,6 +40,10 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: false
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
   - stylesheets/extra.css
@@ -56,9 +60,7 @@ nav:
     - Server Rules: ""
     - Community Rules: ""
   - Penal Code:
-    - National Laws:
-      - '[40] Motor Vehicles and Traffic':
-        - Moving Violations:
-          - 40-6-181 | Speeding: 'penal-code/national-laws/moving-violations/speeding.md'
+    - '[Title 16] Crimes and Offenses': title-16.md
+    - '[Title 40] Motor Vehicles and Traffic': title-40.md
   - Bill of Rights: bill-of-rights.md
 
