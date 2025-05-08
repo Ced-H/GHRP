@@ -1,7 +1,6 @@
 site_name: Georgia HEAT Roleplay
 theme:  
   name: material
-  custom_dir: overrides
   features:
     - toc.integrate
     - navigation.sections
