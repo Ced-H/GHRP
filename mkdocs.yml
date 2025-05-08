@@ -12,6 +12,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.tabs.link
+    - content.tooltips
   language: en
   palette:
     - scheme: slate
@@ -48,6 +49,8 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tabbed
   - pymdownx.details
+  - pymdownx.snippets
+  - abbr
   - def_list
   - md_in_html
 

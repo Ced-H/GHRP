@@ -59,54 +59,92 @@
 
 ---
 
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-end; justify-content: space-between;" markdown="1">
+<div style="flex: 2; min-width: 400px;" markdown="1">
+
 ## 16-4-8 Conspiracy to Commit a Crime
 
-:material-information-outline: __Severity__
+: __Subsection A__
 
-Subsection A: Misdemeanor
+    : A person commits the offense of conspiracy to commit a misdemeanor when he together with one or more persons conspires to commit any misdemeanor and any one or more of such persons does any overt act to effect the object of the conspiracy
 
-Subsection B: Felony
+: __Subsection B__
 
-__Elements__
+    : A person commits the offense of conspiracy to commit a felony when he together with one or more persons conspires to commit any felony and any one or more of such persons does any overt act to effect the object of the conspiracy
 
-Subsection A: A person commits the offense of conspiracy to commit a misdemeanor when he together with one or more persons conspires to commit any misdemeanor and any one or more of such persons does any overt act to effect the object of the conspiracy
+</div>
 
-Subsection B: A person commits the offense of conspiracy to commit a felony when he together with one or more persons conspires to commit any felony and any one or more of such persons does any overt act to effect the object of the conspiracy
+<div style="flex: 1; min-width: 250px; align-self: flex-end; text-align: left;" markdown="1">
+<div class="grid cards" markdown>
 
-__Sentencing__
+- __Severity__
 
-Subsection A: 1 to 12 Seconds
+    A) — Misdemeanor
 
-Subsection B: 12 to 60 Seconds
+    B) — Felony
+
+- __Sentencing__
+
+    A) — 1 to 12 Seconds
+
+    B) — 12 to 60 Seconds
+
+</div>
+</div>
+</div>
 
 ---
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-end; justify-content: space-between;" markdown="1">
+<div style="flex: 2; min-width: 400px;" markdown="1">
 
 ## 16-5-1 Murder
 
-:material-information-outline: __Severity__
+: __Subsection A__
 
-Felony
+    : A person commits the offense of murder when he unlawfully and with malice aforethought, either express or implied, causes the death of another human being. A person commits the offense of murder when, in the commission of a felony, he or she causes the death of another human being irrespective of malice.
 
-__Elements__
+</div>
 
-A person commits the offense of murder when he unlawfully and with malice aforethought, either express or implied, causes the death of another human being. A person commits the offense of murder when, in the commission of a felony, he or she causes the death of another human being irrespective of malice.
+<div style="flex: 1; min-width: 250px; align-self: flex-end; text-align: left;" markdown="1">
+<div class="grid cards" markdown>
 
-__Sentencing__
+- __Severity__
 
-300 Seconds
+    Felony
+
+- __Sentencing__
+
+    300 Seconds
+
+</div>
+</div>
+</div>
 
 ---
 
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-end; justify-content: space-between;" markdown="1">
+<div style="flex: 2; min-width: 400px;" markdown="1">
+
 ## 16-5-2 Voluntary Manslaughter
 
-:material-information-outline: __Severity__
+: __Subsection A__
 
-Felony
+    : A person commits the offense of voluntary manslaughter when he causes the death of another human being under circumstances which would otherwise be murder and if he acts solely as the result of a sudden, violent, and irresistible passion resulting from serious provocation sufficient to excite such passion in a reasonable person; however, if there should have been an interval between the provocation and the killing sufficient for the voice of reason and humanity to be heard, of which the jury in all cases shall be the judge, the killing shall be attributed to deliberate revenge and be punished as murder.
 
-__Elements__
+</div>
 
-A person commits the offense of voluntary manslaughter when he causes the death of another human being under circumstances which would otherwise be murder and if he acts solely as the result of a sudden, violent, and irresistible passion resulting from serious provocation sufficient to excite such passion in a reasonable person; however, if there should have been an interval between the provocation and the killing sufficient for the voice of reason and humanity to be heard, of which the jury in all cases shall be the judge, the killing shall be attributed to deliberate revenge and be punished as murder.
+<div style="flex: 1; min-width: 250px; align-self: flex-end; text-align: left;" markdown="1">
+<div class="grid cards" markdown>
 
-__Sentencing__
+- __Severity__
 
-240 Seconds
+    Felony
+
+- __Sentencing__
+
+    240 Seconds
+
+</div>
+</div>
+</div>
