@@ -210,3 +210,4 @@ Example of Good Samaritan:
 
 !!! success Subject A Shoots a police officer, Subject B; a civilian walking along the path draws their personal weapon and shoots Subject A dead and calls for Medical and Police Services.
 
+
