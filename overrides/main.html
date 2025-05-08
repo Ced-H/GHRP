@@ -1,0 +1,50 @@
+{# Extend the original Material layout everywhere #}
+{% extends "base.html" %}
+
+{# 1) NAV: only show the theme’s nav if NOT on index.md #}
+{% block nav %}
+  {% if page and page.file and page.file.src_path != "index.md" %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
+
+{# 2) CONTENT: hero on index.md, otherwise normal content #}
+{% block content %}
+  {% if page and page.file and page.file.src_path == "index.md" %}
+    <header class="header">
+      <nav class="nav">
+        <div class="logo">
+          <a href="/"><img src="/assets/images/logo.png"
+                           alt="Site Logo"
+                           style="height:150px;"></a>
+        </div>
+        <ul class="nav--list" data-state="open">
+          <li class="nav--item"><a href="/" class="link">Home</a></li>
+          <li class="nav--item"><a href="/gameplay-rules/" class="link">Gameplay Rules</a></li>
+          <li class="nav--item"><a href="/title-16/" class="link">Penal Code</a></li>
+          <li class="nav--item"><a href="/bill-of-rights/" class="link">Bill of Rights</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div class="container">
+        <h1 class="title text-center">
+          Elegant Landing Pages for Your Next Project
+        </h1>
+        <a href="/gameplay-rules/" class="btn">
+          Explore Gameplay Rules →
+        </a>
+      </div>
+    </section>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
+
+{# 3) FOOTER: only show the theme’s footer if NOT on index.md #}
+{% block footer %}
+  {% if page and page.file and page.file.src_path != "index.md" %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}

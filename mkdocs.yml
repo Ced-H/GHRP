@@ -1,6 +1,7 @@
 site_name: Georgia HEAT Roleplay
 theme:  
   name: material
+  custom_dir: overrides
   features:
     - toc.integrate
     - navigation.sections
@@ -69,6 +70,7 @@ copyright: |
   &copy; 2025 <a href="http://spacecoastrp.co" target="_blank" rel="noopener">The Spacecoast Network</a>
 
 nav:
+  - Home: index.html
   - Rules:
     - Gameplay Rules: gameplay-rules.md
     - Server Rules: ""
