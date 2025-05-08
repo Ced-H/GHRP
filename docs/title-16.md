@@ -148,3 +148,37 @@
 </div>
 </div>
 </div>
+
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-end; justify-content: space-between;" markdown="1">
+<div style="flex: 2; min-width: 400px;" markdown="1">
+
+## ##-#-# Insert Code Title Here
+
+: __Subsection A__
+
+    : Insert Elements Here, Make sure to keep the ": " at the beginning of the line, tabbed in one time to ": __Subsection A__ so that it stays in the nested format. This helps to give the cards the right display formatting.
+
+: __Subsection B__
+
+    : Each subsequent subsection for elements should have this layout.
+
+</div>
+
+<div style="flex: 1; min-width: 250px; align-self: flex-end; text-align: left;" markdown="1">
+<div class="grid cards" markdown>
+
+- __Severity__
+
+    A) — Enter Severity Here
+
+- __Sentencing__
+
+    A) — Enter sentencing here
+    
+    B) — Or here, this is an example of how you would add multiple sections to the cards
+
+</div>
+</div>
+</div>

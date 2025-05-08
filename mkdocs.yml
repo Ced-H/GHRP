@@ -13,6 +13,7 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.tooltips
+    - content.code.annotate
   language: en
   palette:
     - scheme: slate
@@ -53,6 +54,10 @@ markdown_extensions:
   - abbr
   - def_list
   - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
 
 
 extra_css:
