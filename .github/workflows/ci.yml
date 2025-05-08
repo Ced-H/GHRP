@@ -1,24 +1,35 @@
-name: ci
+name: Deploy MkDocs + Static Landing
 
 on:
   push:
     branches:
       - main
-      - master
-
-permissions:
-  contents: write
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
-      - uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: 3.x
 
-      - run: pip install mkdocs-material
+      - name: Install MkDocs & Material theme
+        run: pip install mkdocs-material
 
-      - run: mkdocs gh-deploy --force
+      - name: Build MkDocs site
+        run: mkdocs build --site-dir site
+
+      - name: Copy custom landing page
+        run: cp index.html site/index.html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: site
