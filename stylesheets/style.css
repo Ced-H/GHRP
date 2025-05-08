@@ -75,11 +75,13 @@ section.hero > div {
 }
 
 section.hero {
-  background-image: url("../assets/images/bg.jpg");
+  background-image: url("/GHRP/assets/images/bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  height: 100vh;
 }
+
 
 nav.nav {
   display: flex;
