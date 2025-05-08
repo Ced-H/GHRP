@@ -1,3 +1,5 @@
-# GHRP Welcomes You!
+---
+template: home.html
+---
 
-## This site is still under developemnt.
+<!-- You can leave this file empty beyond the front-matter -->
