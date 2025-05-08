@@ -1,38 +1,61 @@
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-end; justify-content: space-between;" markdown="1">
+<div style="flex: 2; min-width: 400px;" markdown="1">
+
 ## 16-4-1 Criminal Attempt
 
-:material-information-outline: __Severity__
+: **Subsection A** 
 
-Subsection A - Misdemeanor
-    
-Subsection B - Felony
+    : A person commits the offense of criminal attempt when, with intent to commit a Misdemeanor, he performs any act which constitutes a substantial step toward the commission of that crime.
 
-__Elements__
+: **Subsection B**
+    : A person commits the offense of criminal attempt when, with intent to commit a Felony, he performs any act which constitutes a substantial step toward the commission of that crime.
 
-Subsection A - A person commits the offense of criminal attempt when, with intent to commit a Misdemeanor, he performs any act which constitutes a substantial step toward the commission of that crime.
+</div>
 
-Subsection B - A person commits the offense of criminal attempt when, with intent to commit a Felony, he performs any act which constitutes a substantial step toward the commission of that crime.
+<div style="flex: 1; min-width: 250px; align-self: flex-end; text-align: left;" markdown="1">
 
-__Sentencing__
+<div class="grid cards" markdown>
+- __Severity__
 
-Subsection A - 1 to 12 Seconds
+    A) — Misdemeanor  
+    B) — Felony
 
-Subsection B - 12 to 60 Seconds
+- __Sentencing__
+
+    A) — 1 to 12 Seconds  
+    B) — 12 to 60 Seconds
+</div>
+
+</div>
+</div>
 
 ---
 
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-end; justify-content: space-between;" markdown="1">
+<div style="flex: 2; min-width: 400px;" markdown="1">
+
 ## 16-4-7 Criminal Solicitation
 
-:material-information-outline: __Severity__
+: __Subsection A__
 
-Felony
+    : A person commits the offense of criminal solicitation when, with intent that another person engage in conduct constituting a felony, he solicits, requests, commands, importunes, or otherwise attempts to cause the other person to engage in such conduct.
 
-__Elements__
+</div>
 
-A person commits the offense of criminal solicitation when, with intent that another person engage in conduct constituting a felony, he solicits, requests, commands, importunes, or otherwise attempts to cause the other person to engage in such conduct.
+<div style="flex: 1; min-width: 250px; align-self: flex-end; text-align: left;" markdown="1">
 
-__Sentencing__
+<div class="grid cards" markdown>
+- __Severity__
 
-12 to 60 seconds
+    Felony
+
+- __Sentencing__
+
+    12 to 60 Seconds
+</div>
+
+</div>
+</div>
 
 ---
 
